@@ -36,7 +36,7 @@ LED5:1.0V以下（ゴミ）
 
 ## 真実
 世の中は意外と便利なものが多いです。
-LM3914というICがあります。
+LM3914というICがあるらしいです。
 さあ、データシートを見てみましょう。
 
 https://www.ti.com/jp/lit/ds/symlink/lm3914.pdf?ts=1668753756115&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252Fja-jp%252FLM3914

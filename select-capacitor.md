@@ -58,10 +58,14 @@ kicadしていてコンデンサの選び方がわからない人間がいる←
   
   わかりやすそうなリンク貼っておきます。
   https://detail-infomation.com/variable-capacitor-type/
-</summary></details>
+ </summary></details>
   
 <details><summary>主な使い方</summary>
   自分が知っている限りでは、昇圧チョッパやオペアンプ回路など、多くの回路に使われている。
   
   回路図見たら、いる。
   </summary></details>
+  
+ <details><summary> 注意点</summary>
+  - 極性があるやつは確認してから使用する。しないとこうなります→https://www.youtube.com/watch?v=25kgoA2gpT0
+  - 

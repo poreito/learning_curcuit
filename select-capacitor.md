@@ -67,11 +67,13 @@ kicadしていてコンデンサの選び方がわからない人間がいる←
   </summary></details>
   
  <details><summary> 注意点</summary>
+  
   極性があるやつは確認してから使用する。しないとこうなります→https://www.youtube.com/watch?v=25kgoA2gpT0
   
   寿命があるやつは死んでないかを確認する。（気づかないと非常に腹が立つため）
   
   大きさを考える。スーパーキャパシタ等の大きいものを使うときは設置する場所に気を付ける。
+  
   </summary></details>
  
  <details><summary>バイパスコンデンサ</summary>

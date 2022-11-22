@@ -60,8 +60,7 @@
   
   回路図見たら、いる。
   </summary></details>
-  
-<details><summary> 選び方
+
 ## なにこのファイル
 kicadしていてコンデンサの選び方がわからない人間がいる←
 

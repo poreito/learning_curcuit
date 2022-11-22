@@ -53,7 +53,7 @@
   
   わかりやすそうなリンク貼っておきます。
   https://detail-infomation.com/variable-capacitor-type/
-  
+  </summary><detail>
 <details><summary>主な使い方</summary>
   自分が知っている限りでは、昇圧チョッパやオペアンプ回路など、多くの回路に使われている。
   

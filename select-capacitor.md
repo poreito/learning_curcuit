@@ -67,4 +67,4 @@ kicadしていてコンデンサの選び方がわからない人間がいる←
   </summary></details>
   
  <details><summary> 注意点</summary>
-  - 極性があるやつは確認してから使用する。しないとこうなります→https://www.youtube.com/watch?v=25kgoA2gpT0
+- 極性があるやつは確認してから使用する。しないとこうなります→https://www.youtube.com/watch?v=25kgoA2gpT0

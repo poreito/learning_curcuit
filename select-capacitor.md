@@ -73,6 +73,7 @@ kicadしていてコンデンサの選び方がわからない人間がいる←
   </summary></details>
  
  <details><summary>バイパスコンデンサ</summary>
+  
   やっるきが　でっない♪
   
   やっるきが　でっない♪

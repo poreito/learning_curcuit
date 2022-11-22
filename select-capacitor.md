@@ -45,7 +45,7 @@
 なんかつよそう（小並感）
   </summary></details>
   
- <details><summary> 可変コンデンサについて</summary>
+<details><summary> 可変コンデンサについて</summary>
   可変コンデンサとは、加える電圧によって静電容量を変えることができるやつや、ドライバなどを用いて機械的に静電容量を変えることができるやつなどがあります。
   可変コンデンサにも多くの種類がありますが、自分はあまり使ってないです。
   
@@ -53,7 +53,7 @@
   
   わかりやすそうなリンク貼っておきます。
   https://detail-infomation.com/variable-capacitor-type/
-  </summary><detail>
+</summary></detail>
   
 <details><summary>主な使い方</summary>
   自分が知っている限りでは、昇圧チョッパやオペアンプ回路など、多くの回路に使われている。

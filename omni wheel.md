@@ -62,7 +62,7 @@ Pulse Width Modutation　の略。
 よって行列式に表すと、
 
 ![スクリーンショット (19)](https://user-images.githubusercontent.com/110577719/205444591-530bb40a-8394-4c4a-9e48-6827206c9b32.png)
-<img scr="https://user-images.githubusercontent.com/110577719/205444773-2a82ae48-3840-4607-8b1b-b0b39bd19996.png" width="1px"
+<img src="https://user-images.githubusercontent.com/110577719/205444773-2a82ae48-3840-4607-8b1b-b0b39bd19996.png" width="1px"
 ">
 
 となります。

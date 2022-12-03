@@ -62,7 +62,7 @@ Pulse Width Modutation　の略。
   - V₂=-1/2x+√3/2y+rθ
   - V₃=-1/2x-√3/2y+rθ
 
-よって行列式に表すと、
+よって行列式に表すと、V（V₁,V₂,V₃）は、
 
 <img src="https://user-images.githubusercontent.com/110577719/205446374-5e3ad1b5-2cf1-421d-bcba-a3bd75360972.png" width="25%">
 

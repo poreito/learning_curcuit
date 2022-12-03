@@ -61,12 +61,15 @@ Pulse Width Modutation　の略。
   - V₁=x+0y+rθ
   - V₂=-1/2x+√3/2y+rθ
   - V₃=-1/2x-√3/2y+rθ
+
 よって行列式に表すと、
 
-<img src="https://user-images.githubusercontent.com/110577719/205445421-1943feb3-890f-4b23-8830-2b8daea14abc.png" width="25%">
-
+<img src="https://user-images.githubusercontent.com/110577719/205446374-5e3ad1b5-2cf1-421d-bcba-a3bd75360972.png" width="25%">
 
  となります。
+ 
+次に、各方向へ動かす計算をします。
+
 ## 付加機能について
 技術不足過ぎて今やるつもりはないですが書いておきます。
 これあったらいいなーとぱっと思いついたもの

@@ -55,7 +55,9 @@ Pulse Width Modutation　の略。
   - V₁=x+0y+rθ
   - V₂=cos120°x+sin120°y+rθ
   - V₃=cos240°x+sin240°y+rθ
+
 となるため、
+
   - V₁=x+0y+rθ
 　- V₂=-1/2x+√3/2y+rθ
   - V₃=-1/2x-√3/2y+rθ

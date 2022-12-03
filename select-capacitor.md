@@ -25,7 +25,7 @@ kicadしていてコンデンサの選び方がわからない人間がいる←
 - 長所：耐圧、幅広い
 - 短所：場所とる、死んでいる可能性がある
 
-  ![](/images/https://akizukidenshi.com/img/goods/C/P-08426.jpg)
+  ![](/images/akizukidenshi.com/img/goods/C/P-08426.jpg)
 
 なんかよく見る。
 ### フィルムコンデンサ

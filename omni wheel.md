@@ -67,8 +67,6 @@ Pulse Width Modutation　の略。
 <img src="https://user-images.githubusercontent.com/110577719/205446374-5e3ad1b5-2cf1-421d-bcba-a3bd75360972.png" width="25%">
 
  となります。
- 
-次に、各方向へ動かす計算をします。
 
 ## 付加機能について
 技術不足過ぎて今やるつもりはないですが書いておきます。

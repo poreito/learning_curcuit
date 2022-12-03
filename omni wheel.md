@@ -43,7 +43,6 @@ Pulse Width Modutation　の略。
 - ピンっていう足みたいなのがある。ピン番号などはデータシートを見よう。
 
 ### 計算方法
-![](/image/C:\Users\neich\OneDrive\画像\Saved Pictures\omniwheel.png)
 
 ## 付加機能について
 技術不足過ぎて今やるつもりはないですが書いておきます。

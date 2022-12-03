@@ -80,6 +80,8 @@ kicadしていてコンデンサの選び方がわからない人間がいる←
   
   大きさを考える。スーパーキャパシタ等の大きいものを使うときは設置する場所に気を付ける。
   
+  爆発させるとこんなことができます（）→https://www.youtube.com/watch?v=ETE_qwsVcGQ
+  
   </summary></details>
  
  <details><summary>バイパスコンデンサ</summary>

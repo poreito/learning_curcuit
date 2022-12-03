@@ -31,6 +31,7 @@ Pulse Width Modutation　の略。
 モーターやLEDを制御するとき、リニア制御と比べて損失が少なく済む。
 
 以下のようなグラフになる
+
 ![](https://dotstud.io/img/docs/pulse-width-modulation/2.png)
 
 ※リニア制御とは

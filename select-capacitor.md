@@ -72,7 +72,9 @@ kicadしていてコンデンサの選び方がわからない人間がいる←
   
  <details><summary> 注意点</summary>
   
-  極性があるやつは確認してから使用する。しないとこうなります→https://www.youtube.com/watch?v=25kgoA2gpT0
+  極性があるやつは確認してから使用する。しないとこうなります→https://www.youtube.com/watch?v=G-65WLg4Gks
+  
+  定格電圧を確認する。また、逆電圧をかけない。→https://www.youtube.com/watch?v=25kgoA2gpT0
   
   寿命があるやつは死んでないかを確認する。（気づかないと非常に腹が立つため）
   

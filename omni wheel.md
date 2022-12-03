@@ -61,7 +61,7 @@ Pulse Width Modutation　の略。
   - V₃=-1/2x-√3/2y+rθ
 よって行列式に表すと、
 
-![スクリーンショット (19)](https://user-images.githubusercontent.com/110577719/205444591-530bb40a-8394-4c4a-9e48-6827206c9b32.png = 100px)
+![スクリーンショット (19)](https://user-images.githubusercontent.com/110577719/205444591-530bb40a-8394-4c4a-9e48-6827206c9b32.png = 100x)
 
  となります。
 ## 付加機能について

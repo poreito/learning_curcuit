@@ -36,6 +36,10 @@ DCモーターは直流、ACモーターは交流である。
 自分はHブリッジ回路を挙げます。それがこちら。
 
 <img src="https://user-images.githubusercontent.com/110577719/210214242-5a387f4c-fdd1-4b0d-8a04-e92cff20ea85.png" width="40%">
+
+これがぼくの、くおりてぃ（あほ）
+
+
 ## モタドラ
 　モータードライバによる動作。
  
